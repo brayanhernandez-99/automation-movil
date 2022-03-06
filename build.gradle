@@ -9,7 +9,7 @@ plugins {
 }
 
 apply plugin: 'net.serenity-bdd.aggregator'
-group 'org.example'
+group 'co.com.movil'
 version '1.0-SNAPSHOT'
 
 repositories {
